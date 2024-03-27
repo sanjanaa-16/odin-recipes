@@ -1,1 +1,2 @@
 # odin-recipes
+This website has been created as part of my web development learning journey and this is my first website! It has been created entirely using HTML. In this site, I have presented the recipes of some of my favourite dishes!
